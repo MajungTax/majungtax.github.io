@@ -1,8 +1,10 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<div style="width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#000;padding:40px 0;">
+  <img src="image1" alt="Majung Tax Consultant Logo" style="width:180px;max-width:80vw;background:transparent;" />
+  <div style="margin-top:24px;text-align:center;">
+    <span style="display:block;font-family:'Segoe UI',Arial,sans-serif;font-size:2rem;font-weight:700;letter-spacing:1px;color:#fff;line-height:1;">MAJUNG TAX</span>
+    <span style="display:block;font-family:'Segoe UI',Arial,sans-serif;font-size:1.3rem;font-weight:600;letter-spacing:8px;color:#2eccb1;margin-top:2px;">CONSULTANT</span>
+  </div>
+</div>
   <title>Majung Tax Consultant</title>
   <style>
     body {
