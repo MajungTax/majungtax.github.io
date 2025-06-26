@@ -123,7 +123,7 @@
   </div>
 
   <div class="section contact">
-    <h2>Kontak Kami DI Bawahh</h2>
+    <h2>Kontak Kami DI Bawah</h2>
     <p>
       Alamat: Jl. Masjid An Nur No.18, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, DKI Jakarta 12870<br />
       Telepon: 0851-7511-3274<br />
